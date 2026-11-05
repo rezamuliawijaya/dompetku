@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- badan dompet -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,44 h48 a6,6 0 0 1 6,6 v18 a6,6 0 0 1 -6,6 h-48 a6,6 0 0 1 -6,-6 v-18 a6,6 0 0 1 6,-6 z" />
+
+    <!-- lipatan atas dompet -->
+    <path
+        android:fillColor="#B2DFDB"
+        android:pathData="M30,38 h48 a6,6 0 0 1 6,6 v2 h-60 v-2 a6,6 0 0 1 6,-6 z" />
+
+    <!-- gesper koin -->
+    <path
+        android:fillColor="#00695C"
+        android:pathData="M64,52 h12 a5,5 0 0 1 5,5 v6 a5,5 0 0 1 -5,5 h-12 a3,3 0 0 1 -3,-3 v-10 a3,3 0 0 1 3,-3 z" />
+
+    <!-- lubang kancing -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M70,55 a4,4 0 1 1 0,8 a4,4 0 1 1 0,-8 z" />
+
+</vector>

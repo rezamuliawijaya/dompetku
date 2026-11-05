@@ -1,0 +1,17 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/app/build
+/captures
+.externalNativeBuild
+.cxx
+
+# build output server & db lokal
+server/build/
+*.db
+*.db-journal
+.kotlin/
+.kotlin
